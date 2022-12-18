@@ -1,4 +1,4 @@
-<req>
+{
 
         <surname>Иванов</surname>
 
@@ -12,4 +12,4 @@
 
         <phone>8 926 766 48 48</phone>
 
-</req>
+}
