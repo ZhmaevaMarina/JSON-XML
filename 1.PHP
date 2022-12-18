@@ -1,10 +1,14 @@
 <?php 
 $name = 'Марьяна';
-$nab=[97,80,70,80];
-$num = 89124269492;
-$prof = 'Бухгалтер';
-$city='Новый Уренгой, Россия';
-$pochta = 'lady.crupsckaya2012@yandex.ru';
+$profession = 'Web-программист';
+$cityContry='Новый Уренгой, Россия';
+$email = 'lady.crupsckaya2012@yandex.ru';
+$phone = "89124269492";
+$skills=["Фото", "Фотошоп", "Контент"];
+$job=["junior", "intern"];
+$date=["12.2019-по настоящее время, 02.2015-10.2019"];
+$description=["базовые знания Linux","знание PostgreSQL и SQL","владение PHP, Javascript", " понимание принципов построения API (REST)"];
+
 
 ?>
 <!DOCTYPE html>
