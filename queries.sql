@@ -7,11 +7,11 @@ CREATE TABLE students (
 );
 
 -- insert
-INSERT INTO students VALUES (0001, 'Ivan', '18');
-INSERT INTO students VALUES (0002, 'Petr', '22');
-INSERT INTO students VALUES (0003, 'Anna', '35');
-INSERT INTO students VALUES (0004, 'Nikolay', '36');
-INSERT INTO students VALUES (0005, 'Yuliya', '18');
+INSERT INTO students VALUES (0001, 'Nikolay', '20');
+INSERT INTO students VALUES (0002, 'Yuliya', '18');
+INSERT INTO students VALUES (0003, 'Janna', '34');
+INSERT INTO students VALUES (0004, 'Ruslan', '18');
+INSERT INTO students VALUES (0005, 'Tatyana', '19');
 
 
 -- fetch 
